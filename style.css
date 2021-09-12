@@ -1,0 +1,46 @@
+table{
+    margin: 0;
+    padding: 0;
+    border: 1px solid black;
+    float: right;
+}
+tr td{
+    border: 1px solid black;
+    border-right-style:none ;
+    margin: 0;
+    font-size: large;
+    font-family: sans-serif;
+}
+#gray{
+    background-color: grey;
+}
+#green{
+    background-color: green;
+}
+#yellow{
+    background-color: yellow;  
+}
+#red{
+    background-color: rgb(230, 21, 21);
+}
+#bacgreen{
+    background-color: rgb(140, 235, 52);
+}
+#blue{
+    background-color: blue;
+}
+#purpule{
+    background-color: rgb(232, 3, 252);
+}
+#first{
+    background-color: black;
+    color: white;
+}
+.second{
+    background-color: rgb(180, 180, 180);
+    
+}
+.third{
+    background-color: rgb(112, 112, 112);
+    color: rgb(246, 233, 246);
+}
